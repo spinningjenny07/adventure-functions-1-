@@ -55,6 +55,7 @@ var output = "Armed with only their " +
 	
 		document.getElementById("adventure").innerHTML = output;
 }
+		newGame();
 
 		document.getElementById("new_adventure").onclick = newGame;
 
